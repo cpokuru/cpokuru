@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Chandrakanth%20Pokuru&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%26%20Architect&descAlignY=58&descColor=58a6ff" />
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/cpokuru/cpokuru/main/embedded_linux_platform_stack.png" width="80%" />
 
 <br/>
@@ -68,10 +64,3 @@
 | **Security** | mTLS, PKI, TLS |
 
 ---
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=100&section=footer"/>
-
-</div>
