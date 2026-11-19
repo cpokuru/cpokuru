@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cpokuru/cpokuru/main/embedded_linux_platform_stack.png" width="80%" />
+<img src="https://raw.githubusercontent.com/cpokuru/cpokuru/main/embedded_linux_platform_stack_v1.png" width="80%" />
 
 <br/>
 
