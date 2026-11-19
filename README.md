@@ -1,6 +1,5 @@
 # Hi, I'm Chandrakanth Pokuru 👋
 
-Core RDK Broadband
 
 Software Engineer & Architect focused on RDK-B platforms, HAL abstraction, Edge AI, and TR-181/USP data models.
 
