@@ -69,16 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cpokuru&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpokuru&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
