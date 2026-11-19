@@ -1,4 +1,4 @@
-# Hi, I'm Chandra Pokuru 👋
+# Hi, I'm Chandrakanth Pokuru 👋
 
 Core RDK Broadband
 
